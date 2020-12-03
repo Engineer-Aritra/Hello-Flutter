@@ -15,13 +15,15 @@ class MyApp extends StatelessWidget {
             centerTitle: true,
             title: Text('Hello World'),
           ),
-          body: Container(
-              width: double.infinity,
-              child: Text(
-                'This is my 1st Flutter App',
-                textAlign: TextAlign.center,
-                style: TextStyle(color: Colors.deepPurpleAccent, fontSize: 20),
-              ))),
+          body: Center(
+              child: Container(
+                  width: double.infinity,
+                  child: Text(
+                    'This is my 1st Flutter App',
+                    textAlign: TextAlign.center,
+                    style:
+                        TextStyle(color: Colors.deepPurpleAccent, fontSize: 20),
+                  )))),
     );
   }
 }
