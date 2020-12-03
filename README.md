@@ -5,6 +5,11 @@ A new Flutter project.
 ![Alt text](https://github.com/Engineer-Aritra/Hello-Flutter/blob/master/preview.png?raw=true "Android Preview")
 
 
+<p align="center">
+  
+  <img src="https://github.com/Engineer-Aritra/Hello-Flutter/blob/master/preview.png" width="350" alt="Android Preview">
+</p
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
